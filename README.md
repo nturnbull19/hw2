@@ -1,2 +1,2 @@
 # hw2
-add domain
+https://distracted-meitner-f608d1.netlify.app
